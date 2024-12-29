@@ -1,5 +1,8 @@
 #include<iostream>
 using namespace std;
+
+// optimal solution
+
 int largestelemt(int arr[], int n){
     int largest= INT32_MIN;
     for(int i=0;i<n;i++){
